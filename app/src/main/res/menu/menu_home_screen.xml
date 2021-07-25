@@ -18,8 +18,12 @@
         android:icon="@drawable/ic_baseline_info_24"
         />
 
-    <item android:id="@+id/saveContact"
+    <item android:id="@+id/saveContact_item"
         android:title="@string/contactSave"
+
+        />
+    <item android:id="@+id/gitLink_item"
+        android:title="@string/gitLink"
 
         />
     <item android:id="@+id/quit_item"

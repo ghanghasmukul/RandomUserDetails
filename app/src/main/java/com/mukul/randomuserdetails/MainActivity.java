@@ -172,7 +172,11 @@ public class MainActivity extends AppCompatActivity {
             }
 
             case  (R.id.developer_info_item):{
-                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/ghanghasmukul")));
+                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://techiemukul.com/")));
+                break;
+            }
+            case  (R.id.gitLink_item):{
+                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/ghanghasmukul/RandomUserDetails")));
                 break;
             }
             case (R.id.whatsapp_item):{
@@ -199,7 +203,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 break;
             }
-            case R.id.saveContact: {
+            case R.id.saveContact_item: {
 
                 Intent saveMyContact = new Intent(Intent.ACTION_INSERT);
 

@@ -7,4 +7,5 @@
     <string name="quit">Exit</string>
     <string name="Call">"Call "</string>
     <string name="contactSave">Save Developer Contact</string>
+    <string name="gitLink">Git Repository</string>
 </resources>
