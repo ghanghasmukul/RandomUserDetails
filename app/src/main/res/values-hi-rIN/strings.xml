@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">यादृच्छिक उपयोगकर्ता विवरण</string>
+    <string name="Developer_info">डेवलपर_जानकारी</string>
+    <string name="contact">संपर्क करें</string>
+    <string name="whatsapp">व्हाट्सएप पर संपर्क करें</string>
+    <string name="quit">बाहर जाएं</string>
+    <string name="Call">फोन करें</string>
+    <string name="Search">"खोज "</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RandomUserDetails</string>
+    <string name="Search">search</string>
+    <string name="Developer_info">Developer info</string>
+    <string name="contact">Contact</string>
+    <string name="whatsapp">Contact on Whatsapp</string>
+    <string name="quit">Exit</string>
+    <string name="Call">"Call "</string>
+    <string name="contactSave">Save Developer Contact</string>
+</resources>

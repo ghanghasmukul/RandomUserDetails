@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/whatsapp_item"
+        android:title="@string/whatsapp"
+        android:icon="@drawable/ic_baseline_chat_24"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/call_item"
+        android:title="@string/Call"
+        android:icon="@drawable/ic_baseline_call_24"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/developer_info_item"
+        android:title="@string/Developer_info"
+        android:icon="@drawable/ic_baseline_info_24"
+        />
+
+    <item android:id="@+id/saveContact"
+        android:title="@string/contactSave"
+
+        />
+    <item android:id="@+id/quit_item"
+        android:title="@string/quit"
+        android:icon="@drawable/ic_baseline_info_24"
+        />
+
+
+</menu>
